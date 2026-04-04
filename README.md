@@ -25,9 +25,11 @@ Struktur folder telah dirapikan agar lebih modular, di mana seluruh skrip analis
 
 ```text
 📦 10-MuhammadArsyadSetiawan-CandraAndikaPutra
- ┣ 📂 Week_1
+ ┣ 📂 data
  ┃ ┗ 📜 ai_worker_burnout_attrition_2026.csv
  ┣ 📂 notebook
+ ┃ ┣ 📂 Week_1
+ ┃ ┃ ┗ 📜 ai_worker_burnout_attrition_2026.csv
  ┃ ┣ 📂 Week_2
  ┃ ┃ ┗ 📜 DS-Kel10-Week2.ipynb
  ┃ ┃ ┗ 📜 FindDataset.ipynb
