@@ -68,12 +68,13 @@ Untuk mencoba *notebook* yang ada di dalam repositori ini di perangkat lokal kam
 ### 1. Clone Repositori
 Buka terminal dan jalankan perintah:
 ```bash
-git clone [https://github.com/noctican/10-MuhammadArsyadSetiawan-CandraAndikaPutra.git](https://github.com/noctican/10-MuhammadArsyadSetiawan-CandraAndikaPutra.git)
+git clone https://github.com/noctican/10-MuhammadArsyadSetiawan-CandraAndikaPutra.git
+
 cd 10-MuhammadArsyadSetiawan-CandraAndikaPutra
 ```
 
 ### 2. Siapkan Virtual Environment
-Sangat direkomendasikan menggunakan *virtual environment* agar dependensi sistem tidak terganggu (terutama untuk pengguna Linux seperti Manjaro).
+Sangat direkomendasikan menggunakan *virtual environment* agar dependensi sistem tidak terganggu.
 
 ```bash
 # Membuat virtual environment bernama 'env'
