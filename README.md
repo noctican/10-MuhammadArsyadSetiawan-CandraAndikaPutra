@@ -30,6 +30,7 @@ Struktur folder telah dirapikan agar lebih modular, di mana seluruh skrip analis
  ┣ 📂 notebook
  ┃ ┣ 📂 Week_2
  ┃ ┣ 📂 Week_3
+ ┃ ┣ 📂 Week_4
  ┃ ┗ 📂 WorkShop1
  ┣ 📜 .gitignore
  ┣ 📜 requirements.txt
