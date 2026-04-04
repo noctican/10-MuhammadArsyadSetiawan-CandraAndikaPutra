@@ -25,19 +25,24 @@ Struktur folder telah dirapikan agar lebih modular, di mana seluruh skrip analis
 
 ```text
 📦 10-MuhammadArsyadSetiawan-CandraAndikaPutra
- ┣ 📂 data
- ┃ ┣ 📜 ai_worker_burnout_attrition_2026.csv
+ ┣ 📂 Week_1
+ ┃ ┗ 📜 ai_worker_burnout_attrition_2026.csv
  ┣ 📂 notebook
  ┃ ┣ 📂 Week_2
+ ┃ ┃ ┗ 📜 DS-Kel10-Week2.ipynb
+ ┃ ┃ ┗ 📜 FindDataset.ipynb
  ┃ ┣ 📂 Week_3
+ ┃ ┃ ┣ 📂 DS-AI-Week3-BestModels
+ ┃ ┃ ┗ 📂 DS-AI-Week3-Notebook
  ┃ ┣ 📂 Week_4
+ ┃ ┃ ┣ 📂 DS-AI-Week4-BestModels
+ ┃ ┃ ┗ 📂 DS-AI-Week4-Notebook
  ┃ ┗ 📂 WorkShop1
+ ┃ ┃ ┗ 📜 10_MuhammadArsyadSetiawan.ipynb
+ ┃ ┃ ┗ 📜 BankCampaignClassification_CandraAndikaPutra.ipynb
  ┣ 📜 .gitignore
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
-```
-
----
 
 ## 🗄️ Tentang Dataset
 
